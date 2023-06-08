@@ -19,7 +19,7 @@ Es una de las primeras arquitecturas Transformer end-to-end diseñada para la de
 ![DeformableDERT](https://github.com/JoseArmandoChavezQuijahuaman/Proyectos/assets/100543415/d8017cad-a9c3-4bb5-889e-10cef46e9ce2)
 ## Referencias
 
--Salazar González, J. L., Zaccaro, C., Álvarez-García, J. A., Soria-Morillo, L. M., & Sancho Caparrini, F. (2020). *Real-time gun detection in CCTV: An open problem.* Neural Networks. doi: [10.1016/j.neunet.2020.09.013](https://doi.org/10.1016/j.neunet.2020.09.013)
+- Salazar González, J. L., Zaccaro, C., Álvarez-García, J. A., Soria-Morillo, L. M., & Sancho Caparrini, F. (2020). *Real-time gun detection in CCTV: An open problem.* Neural Networks. doi: [10.1016/j.neunet.2020.09.013](https://doi.org/10.1016/j.neunet.2020.09.013)
 
 - Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. (2020). *End-to-end object detection with transformers.* In Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part I 16 (pp. 213--229). Springer.
 
