@@ -3,7 +3,7 @@
 El código desarrollado ha sido implementado en Colab para utilizar sus recursos.
 
 ## Base de datos
-El trabajo utilizará el conjunto de datos [Mock attack dataset][SalazarGonzalez2020], el cual ha sido modificado para darle el formato de cocodataset.
+El trabajo utilizará el conjunto de datos Mock attack dataset[SalazarGonzalez2020], el cual ha sido modificado para darle el formato de cocodataset.
 * [Link](https://drive.google.com/drive/folders/1H2DdpzPDr4Q8e0ljEt2naUcAgbhm2Tav?usp=sharing)
 
 <div align="center">
