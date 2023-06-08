@@ -2,7 +2,9 @@
 
 
 ## Base de datos
-El trabajo utilizará el conjunto de datos Mock attack dataset [Salazar et al., 2020], el cual ha sido recopilado y anotado manualmente durante un simulacro de ataque. El conjunto de datos incluye tres cámaras de vigilancia ubicadas en diferentes áreas, cada una representando escenarios distintos. Las secuencias de video tienen diferentes duraciones y se han seleccionado segmentos con movimiento para su anotación. En total, se anotaron 607 fotogramas para Cam1, 3,511 fotogramas para Cam7 y 1,031 fotogramas para Cam5. Estos fotogramas anotados manualmente proporcionan información valiosa para tareas de detección de objetos y otras aplicaciones de visión por computadora.
+El trabajo utilizará el conjunto de datos Mock attack dataset [Salazar et al., 2020], el cual ha sido modificado para darle el formato de cocodataset.
+* [Link]([https://www.ejemplo.com](https://drive.google.com/drive/folders/1H2DdpzPDr4Q8e0ljEt2naUcAgbhm2Tav?usp=sharing))
+
 
 ## Modelo a evaluar
 El análisis se hará sobre una de las arquitecturas más populares: DEtection TRansformer (DETR).
