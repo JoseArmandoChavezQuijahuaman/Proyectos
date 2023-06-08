@@ -3,7 +3,7 @@
 El código desarrollado ha sido implementado en Colab para utilizar sus recursos.
 
 ## Base de datos
-El trabajo utilizará el conjunto de datos Mock attack dataset[SalazarGonzalez2020], el cual ha sido modificado para darle el formato de cocodataset.
+El trabajo utilizará el conjunto de datos Mock attack dataset [SalazarGonzalez2020], el cual ha sido modificado para darle el formato de cocodataset.
 * [Link](https://drive.google.com/drive/folders/1H2DdpzPDr4Q8e0ljEt2naUcAgbhm2Tav?usp=sharing)
 
 <div align="center">
@@ -19,6 +19,5 @@ Es una de las primeras arquitecturas Transformer end-to-end diseñada para la de
 ![DeformableDERT](https://github.com/JoseArmandoChavezQuijahuaman/Proyectos/assets/100543415/d8017cad-a9c3-4bb5-889e-10cef46e9ce2)
 ## Referencias
 
-[SalazarGonzalez2020]: @article{SalazarGonzalez2020
 -Salazar González, J. L., Zaccaro, C., Álvarez-García, J. A., Soria-Morillo, L. M., & Sancho Caparrini, F. (2020). *Real-time gun detection in CCTV: An open problem.* Neural Networks. doi: [10.1016/j.neunet.2020.09.013](https://doi.org/10.1016/j.neunet.2020.09.013)
 
