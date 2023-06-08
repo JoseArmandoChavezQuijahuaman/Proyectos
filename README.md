@@ -3,8 +3,7 @@
 
 ## Base de datos
 El trabajo utilizará el conjunto de datos Mock attack dataset [Salazar et al., 2020], el cual ha sido modificado para darle el formato de cocodataset.
-* [Link](https://drive.google.com/drive/folders/1H2DdpzPDr4Q8e0ljEt2naUcAgbhm2Tav?usp=sharing))
-
+* [Link](https://drive.google.com/drive/folders/1H2DdpzPDr4Q8e0ljEt2naUcAgbhm2Tav?usp=sharing)
 
 ## Modelo a evaluar
 El análisis se hará sobre una de las arquitecturas más populares: DEtection TRansformer (DETR).
